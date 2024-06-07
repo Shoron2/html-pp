@@ -1,0 +1,26 @@
+p { 
+   width: 50%;
+   border: 3px solid red;
+   border-radius: 10px;
+   margin: 15px;
+   padding: 25px;
+}
+.blue{
+    width: 74%;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 30px;
+    background-color: lightseagreen;
+
+}
+
+p img {
+    width: 100px;
+}
+
+p img  hover {
+    border: 3px solid red;
+    box-shadow: 4px 5px 3px yellowgreen;
+    border-radius: 50%; 
+}
